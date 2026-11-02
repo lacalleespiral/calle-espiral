@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calle Espiral</title>
+    <link>https://github.com/lacalleespiral/calle-espiral.git</link>
+    <language>es</language>
+    <description>Cada programa es una historia.</description>
+    <itunes:author>Quique, Dani, Jesús y Santi</itunes:author>
+    <itunes:owner><itunes:name>Quique, Dani, Jesús y Santi</itunes:name><itunes:email>lacalleespiral@gmail.com</itunes:email></itunes:owner>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="site/img/logo.jpeg"/>
+    <item>
+      <title>Calle Espiral: 15 años después, un piloto improvisado y una mudanza perdida en Suiza</title>
+      <description>Los antiguos integrantes de La Calle vuelven a la radio tras 15 años con un nuevo nombre, Calle Espiral. Primer programa piloto, totalmente improvisado, con cerdos bailarines, un gato intruso y la historia de una mudanza que se perdió camino de Lausana.</description>
+      <link>https://github.com/lacalleespiral/calle-espiral.git/episodios/calle-espiral-15-anos-despues-un-piloto-improvisado-y-una-mudanza-perdida-en-suiza.html</link>
+      <guid isPermaLink="false">calle-espiral-20261030-calle-espiral-15-anos-despues-un-piloto-improvisado-y-una-mudanza-perdida-en-</guid>
+      <pubDate>Fri, 30 Oct 2026 19:10:42 +0000</pubDate>
+      <enclosure url="https://archive.org/download/calle-espiral-20261030-calle-espiral-15-anos-despues-un-piloto-improvisado-y-una-mudanza-perdida-en-/episodio.mp3" length="22759048" type="audio/mpeg"/>
+      <itunes:duration>0:23:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
