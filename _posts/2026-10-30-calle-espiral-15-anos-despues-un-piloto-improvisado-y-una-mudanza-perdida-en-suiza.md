@@ -8,10 +8,6 @@ tags: ["radio", "podcast", "Calle Espiral", "La Calle", "vuelta", "15 años", "i
 
 <audio controls preload="none" src="https://archive.org/download/calle-espiral-20261030-calle-espiral-15-anos-despues-un-piloto-improvisado-y-una-mudanza-perdida-en-/episodio.mp3"></audio>
 
-<!-- spiral:donde -->
-<div class="sp-donde"><span class="sp-donde-title">Disponible también en</span><a class="sp-badge" href="https://www.youtube.com/watch?v=rKD30JGPr0Q" target="_blank" rel="noopener" style="--c:#FF0000"><img src="{{ '/img/redes/youtube.svg' | relative_url }}" alt="" width="22" height="22"><span>YouTube</span></a><a class="sp-badge" href="https://bsky.app/profile/did:plc:evfniscdgded2g2sfxqqo7vl/post/3mzde52av542q" target="_blank" rel="noopener" style="--c:#1185FE"><img src="{{ '/img/redes/bluesky.svg' | relative_url }}" alt="" width="22" height="22"><span>Bluesky</span></a><a class="sp-badge" href="https://mastodon.social/@lacalleespiral/117547204595962200" target="_blank" rel="noopener" style="--c:#6364FF"><img src="{{ '/img/redes/mastodon.svg' | relative_url }}" alt="" width="22" height="22"><span>Mastodon</span></a></div>
-<!-- /spiral:donde -->
-
 # Calle Espiral: volvemos después de 15 años
 
 Hace quince años hicimos un programa de radio llamado La Calle. Ahora Jesús, Quique, Dani y Santi han decidido retomarlo con un nuevo nombre: **Calle Espiral**.
