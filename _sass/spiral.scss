@@ -10,6 +10,8 @@ a.sp-badge:hover { transform: translateY(-2px); box-shadow: 0 6px 14px rgba(0, 0
 .sp-card { margin: 0 0 2rem; padding-bottom: 1rem; border-bottom: 1px solid #e8e8e8; }
 .sp-card h2 { margin-bottom: .2rem; }
 .sp-card time { color: #828282; font-size: .9rem; }
+.sp-card p { margin: .4rem 0 0; }
+.sp-lead { font-size: 1.15rem; color: #555; }
 .site-title { display: inline-flex; align-items: center; gap: .65rem; }
 .site-title::before { content: ""; width: 2.4rem; height: 2.4rem; border-radius: 50%;
   background: url("../img/logo.jpeg") center / cover no-repeat; }
