@@ -1,0 +1,15 @@
+// Generado por spiral en cada publicación: tus estilos van en assets/main.scss, después del @import.
+.sp-donde { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; margin: 1.4rem 0; }
+.sp-donde-title { width: 100%; font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: #828282; }
+.sp-badge { display: inline-flex; align-items: center; gap: .5rem; padding: .4rem .95rem .4rem .7rem;
+  border: 2px solid var(--c); border-radius: 999px; background: #fff; color: #222; font-weight: 600;
+  line-height: 1.2; text-decoration: none; transition: transform .15s ease, box-shadow .15s ease; }
+.sp-badge img { width: 1.35rem; height: 1.35rem; }
+a.sp-badge:hover { transform: translateY(-2px); box-shadow: 0 6px 14px rgba(0, 0, 0, .18); text-decoration: none; }
+.sp-nolink { opacity: .85; }
+.sp-card { margin: 0 0 2rem; padding-bottom: 1rem; border-bottom: 1px solid #e8e8e8; }
+.sp-card h2 { margin-bottom: .2rem; }
+.sp-card time { color: #828282; font-size: .9rem; }
+.site-title { display: inline-flex; align-items: center; gap: .65rem; }
+.site-title::before { content: ""; width: 2.4rem; height: 2.4rem; border-radius: 50%;
+  background: url("../img/logo.jpeg") center / cover no-repeat; }
