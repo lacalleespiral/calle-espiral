@@ -8,6 +8,10 @@ tags: ["cumplir 50", "crisis de los 50", "curva de la felicidad", "expectativas"
 
 <audio controls preload="none" src="https://archive.org/download/calle-espiral-20261106-cincuentones-y-senoros-la-caja-de-martin-y-la-curva-de-la-felicidad/episodio.mp3"></audio>
 
+<!-- spiral:donde -->
+<div class="sp-donde"><span class="sp-donde-title">Disponible también en</span><a class="sp-badge" href="https://www.youtube.com/watch?v=6VQTvzR16YE" target="_blank" rel="noopener" style="--c:#FF0000"><img src="{{ '/img/redes/youtube.svg' | relative_url }}" alt="" width="22" height="22"><span>YouTube</span></a><a class="sp-badge" href="https://bsky.app/profile/did:plc:evfniscdgded2g2sfxqqo7vl/post/3mzod6o2roe23" target="_blank" rel="noopener" style="--c:#1185FE"><img src="{{ '/img/redes/bluesky.svg' | relative_url }}" alt="" width="22" height="22"><span>Bluesky</span></a><a class="sp-badge" href="https://mastodon.social/@lacalleespiral/117571615411914355" target="_blank" rel="noopener" style="--c:#6364FF"><img src="{{ '/img/redes/mastodon.svg' | relative_url }}" alt="" width="22" height="22"><span>Mastodon</span></a></div>
+<!-- /spiral:donde -->
+
 # Cumplir 50 años: la caja de Martín y la curva de la felicidad
 
 En el último episodio de **La calle Espiral** acompañamos a Martín, un amigo imaginario que se despierta el día de su 50 cumpleaños con una niebla espesa en el pecho. Su madre le entregó el día anterior una caja metálica que guardaba desde 1999, con una condición: abrirla solo con 50 años cumplidos.
